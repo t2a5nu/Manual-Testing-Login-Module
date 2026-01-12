@@ -69,4 +69,4 @@ Through this project, I learned:
 -	 The importance of clear documentation in testing
 
 
-## This is a learning-based manual testing project created to practice testing concepts and tools.Advanced testing types like smoke, sanity, and regression are understood conceptually but not executed as part of this project.
+ This is a learning-based manual testing project created to practice testing concepts and tools.Advanced testing types like smoke, sanity, and regression are understood conceptually but not executed as part of this project.
