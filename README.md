@@ -56,17 +56,17 @@ The goal of this project is to show my understanding of:
 •	UI and functional bugs were documented with screenshots in Word
 
  ## Test Environment
--		Browser: Google Chrome
--		Operating System: Windows
--		Device: Desktop
+-	Browser: Google Chrome
+-	Operating System: Windows
+-	Device: Desktop
 
 ## Learning Outcome
 
 Through this project, I learned:
--		How testers think and analyze requirements
--		How to design effective test cases
--		How bugs are reported and tracked in real tools
--	 The importance of clear documentation in testing
+-	How testers think and analyze requirements
+-	How to design effective test cases
+-	How bugs are reported and tracked in real tools
+-	The importance of clear documentation in testing
 
 
  This is a learning-based manual testing project created to practice testing concepts and tools.Advanced testing types like smoke, sanity, and regression are understood conceptually but not executed as part of this project.
