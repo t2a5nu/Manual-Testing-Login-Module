@@ -36,7 +36,7 @@ o	Test Scenario
 o	Test Steps
 o	Test Data
 o	Expected Result
-o	Actual Result
+-	Actual Result
 o	Status (Pass/Fail)
 
 ## Bug Reporting
