@@ -1,7 +1,7 @@
 # Manual Testing Login Module
 Manual testing project with test cases and Jira bug reports
  Manual Testing Project – Login Functionality
- 
+
  ## Project Overview
   
 This project demonstrates my basic manual testing skills as a fresher.
